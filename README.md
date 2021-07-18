@@ -7,7 +7,8 @@ Used:
 flex-box,
 Js (native),
 html / css,
-SCSS.
+SCSS,
+Prepros
 
 Launch.
 
@@ -31,7 +32,8 @@ Landing page.Веб-сайт по продаже винтажных велоси
 flex-box,
 Js(native),
 html/css,
-SCSS.
+SCSS,
+Prepros
 
 Запуск сайта.
 
