@@ -21,8 +21,7 @@ Adaptive and responsive.
 
 JavaScript.
 
-Simple carousel in native js(comments block)
-
+Simple carousel in native js
 
 # yebo
 Название проекта: YEBO
@@ -46,7 +45,7 @@ Prepros
 
 JavaScript.
 
-Простая карусель на нативном js.(comments block)
+Простая карусель на нативном js
 Бургер меню на нативном js
 
 
